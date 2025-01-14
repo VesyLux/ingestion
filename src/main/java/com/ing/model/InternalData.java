@@ -1,32 +1,49 @@
 package com.ing.model;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class InternalData {
-    private String conversationId;
-    private String messageContent;
-    private String userId;
+    private String roomId;
+    private String startTimeUTC;
+    private String companyId;
+    private final List<String> messages = new ArrayList<>();
 
-    // Getters and Setters
-    public String getConversationId() {
-        return conversationId;
+    public String getRoomId() {
+        return roomId;
     }
 
-    public void setConversationId(String conversationId) {
-        this.conversationId = conversationId;
+    public void setRoomId(String roomId) {
+        this.roomId = roomId;
     }
 
-    public String getMessageContent() {
-        return messageContent;
+    public String getStartTimeUTC() {
+        return startTimeUTC;
     }
 
-    public void setMessageContent(String messageContent) {
-        this.messageContent = messageContent;
+    public void setStartTimeUTC(String startTimeUTC) {
+        this.startTimeUTC = startTimeUTC;
     }
 
-    public String getUserId() {
-        return userId;
+    public String getCompanyId() {
+        return companyId;
     }
 
-    public void setUserId(String userId) {
-        this.userId = userId;
+    public void setCompanyId(String companyId) {
+        this.companyId = companyId;
+    }
+
+    public void addMessage(String message) {
+        messages.add(message);
+    }
+
+    @Override
+    public String toString() {
+        return "InternalData{" +
+                "roomId='" + roomId + '\'' +
+                ", startTimeUTC='" + startTimeUTC + '\'' +
+                ", companyId='" + companyId + '\'' +
+                ", messages=" + messages +
+                '}';
     }
 }
