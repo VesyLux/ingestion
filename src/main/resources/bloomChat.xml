@@ -1,0 +1,653 @@
+<?xml version="1.0" standalone="no"?>
+<!-- Data provided by Bloomberg LP. -->
+<FileDump>
+    <Version>IBXML 1.3</Version>
+    <Conversation Perspective="" RoomType="C">
+        <RoomID>CHAT-fs:58F7B7091930001E</RoomID>
+        <StartTime> </StartTime>
+        <StartTimeUTC>1598510131</StartTimeUTC>
+        <ParticipantEntered InteractionType="N">
+            <User>
+                <LoginName>Adele</LoginName>
+                <FirstName>Adele</FirstName>
+                <LastName>Vance</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test BANK</CompanyName>
+                <EmailAddress>adele@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>AdeleV@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/27/2023 08:35:31</DateTime>
+            <DateTimeUTC>1693125331</DateTimeUTC>
+            <ConversationID>CHAT-fs:58F7B7091930001E</ConversationID>
+        </ParticipantEntered>
+        <History InteractionType="H">
+            <User>
+                <LoginName>Adele</LoginName>
+                <FirstName>Adele</FirstName>
+                <LastName>Vance</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test BANK</CompanyName>
+                <EmailAddress>adele@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>AdeleV@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/27/2023 08:35:31</DateTime>
+            <DateTimeUTC>1598510131</DateTimeUTC>
+            <StartTime>08/26/2023 22:00:00</StartTime>
+            <StartTimeUTC>1598479200</StartTimeUTC>
+            <EndTime>08/27/2023 09:46:10</EndTime>
+            <EndTimeUTC>1598521570</EndTimeUTC>
+            <ConversationID>CHAT-fs:58F7B7091930001E</ConversationID>
+        </History>
+        <Attachment InteractionType="H">
+            <User>
+                <LoginName>Adele</LoginName>
+                <FirstName>Adele</FirstName>
+                <LastName>Vance</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test BANK</CompanyName>
+                <EmailAddress>adele@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>AdeleV@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/27/2023 08:35:31</DateTime>
+            <DateTimeUTC>1693125331</DateTimeUTC>
+            <ConversationID>CHAT-fs:58F7B7091930001E</ConversationID>
+            <FileName>170419 g10 fra.txt</FileName>
+            <FileID>58F927A60000930607FBDD36</FileID>
+            <FileSize>40543</FileSize>
+        </Attachment>
+        <Message InteractionType="N">
+            <User>
+                <LoginName>Adele</LoginName>
+                <FirstName>Adele</FirstName>
+                <LastName>Vance</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test bank</CompanyName>
+                <EmailAddress>Adele@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>AdeleV@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/27/2023 08:35:45</DateTime>
+            <DateTimeUTC>1693125345</DateTimeUTC>
+            <Content>
+                culpa strud exercitation ulla r in reprehenderit in volupt reprehenderit in voluptate minim veniam, quis
+                nostrud exercitatio qui officia deserunt mol aboris nisi cing elit, sed do eiusmo sunt in cul commod unt
+                ut labor eu fugiat nulla pari
+            </Content>
+            <ConversationID>CHAT-fs:58F7B7091930001E</ConversationID>
+        </Message>
+        <Attachment InteractionType="H">
+            <User>
+                <LoginName>Adele</LoginName>
+                <FirstName>Adele</FirstName>
+                <LastName>Vance</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test BANK</CompanyName>
+                <EmailAddress>adele@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>AdeleV@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/27/2023 08:35:45</DateTime>
+            <DateTimeUTC>1693125345</DateTimeUTC>
+            <ConversationID>CHAT-fs:58F7B7091930001E</ConversationID>
+            <FileName>Oh, the Places You&apos;ll Go_Inflation Edition.pdf</FileName>
+            <FileID>58FA66490000992007FC8AB5.pdf</FileID>
+            <FileSize>40543</FileSize>
+        </Attachment>
+        <Attachment InteractionType="H">
+            <User>
+                <LoginName>Adele</LoginName>
+                <FirstName>Adele</FirstName>
+                <LastName>Vance</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test BANK</CompanyName>
+                <EmailAddress>adele@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>AdeleV@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/27/2023 08:35:45</DateTime>
+            <DateTimeUTC>1693125345</DateTimeUTC>
+            <ConversationID>CHAT-fs:58F7B7091930001E</ConversationID>
+            <FileName>nsa_english_m.wav</FileName>
+            <FileID>58FA66490000992007FC8AB7.wav</FileID>
+            <FileSize>40543</FileSize>
+        </Attachment>
+        <Message InteractionType="N">
+            <User>
+                <LoginName>Adele</LoginName>
+                <FirstName>Adele</FirstName>
+                <LastName>Vance</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test bank</CompanyName>
+                <EmailAddress>Adelex@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>AdeleV@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/27/2023 08:36:05</DateTime>
+            <DateTimeUTC>1693125365</DateTimeUTC>
+            <Content>
+                culpa strud exercitation ulla r in reprehenderit in volupt , please reply - reprehenderit qwerty
+            </Content>
+            <ConversationID>CHAT-fs:58F7B7091930001E</ConversationID>
+        </Message>
+        <ParticipantLeft InteractionType="N">
+            <User>
+                <LoginName>Adele</LoginName>
+                <FirstName>Adele</FirstName>
+                <LastName>Vance</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test bank</CompanyName>
+                <EmailAddress>Adele@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>AdeleV@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/27/2023 08:36:15</DateTime>
+            <DateTimeUTC>1693125365</DateTimeUTC>
+            <ConversationID>CHAT-fs:58F7B7091930001E</ConversationID>
+        </ParticipantLeft>
+        <ParticipantEntered InteractionType="N">
+            <User>
+                <LoginName>Alex</LoginName>
+                <FirstName>Alex</FirstName>
+                <LastName>W</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test BANK</CompanyName>
+                <EmailAddress>alex@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>AlexW@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/27/2023 08:36:25</DateTime>
+            <DateTimeUTC>1693125385</DateTimeUTC>
+            <ConversationID>CHAT-fs:58F7B7091930001E</ConversationID>
+        </ParticipantEntered>
+        <Attachment InteractionType="H">
+            <User>
+                <LoginName>Alex</LoginName>
+                <FirstName>Alex</FirstName>
+                <LastName>W</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test BANK</CompanyName>
+                <EmailAddress>alex@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>AlexW@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/27/2023 08:36:25</DateTime>
+            <DateTimeUTC>1693125385</DateTimeUTC>
+            <ConversationID>PCHAT-0x4000001AD6A7F</ConversationID>
+            <FileName>Original_attachments_for+pst_test.zip</FileName>
+            <FileID>58FA33120000930607FBCD98.zip</FileID>
+            <FileSize>40543</FileSize>
+        </Attachment>
+        <ParticipantEntered InteractionType="N">
+            <User>
+                <LoginName>Johanna</LoginName>
+                <FirstName>Johanna</FirstName>
+                <LastName>L</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test BANK</CompanyName>
+                <EmailAddress>Johanna@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>JohannaL@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/27/2023 08:36:35</DateTime>
+            <DateTimeUTC>1693125395</DateTimeUTC>
+            <ConversationID>CHAT-fs:58F7B7091930001E</ConversationID>
+        </ParticipantEntered>
+        <Message InteractionType="N">
+            <User>
+                <LoginName>Johanna</LoginName>
+                <FirstName>Johanna</FirstName>
+                <LastName>L</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test bank</CompanyName>
+                <EmailAddress>Johanna@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>JohannaL@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/27/2023 08:37:00</DateTime>
+            <DateTimeUTC>1693125420</DateTimeUTC>
+            <Content>
+                Test data sample - QWERTY reprehenderit in AAPL voluptate minim veniam, quis nostrud exercitatio qui
+                officia deserunt mol aboris nisi cing elit, sed do eiusmo sunt in cul commod unt ut labor eu fugiat
+                nulla pari
+            </Content>
+            <ConversationID>CHAT-fs:58F7B7091930001E</ConversationID>
+        </Message>
+        <Attachment InteractionType="H">
+            <User>
+                <LoginName>Johanna</LoginName>
+                <FirstName>Johanna</FirstName>
+                <LastName>L</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test BANK</CompanyName>
+                <EmailAddress>Johanna@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>JohannaL@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/27/2023 08:37:00</DateTime>
+            <DateTimeUTC>1693125420</DateTimeUTC>
+            <ConversationID>PCHAT-0x4000001AD6A7F</ConversationID>
+            <FileName>archive-rar-not-protected.rar</FileName>
+            <FileID>58FA33120000930607FBCD78.rar</FileID>
+            <FileSize>40543</FileSize>
+        </Attachment>
+        <Message InteractionType="N">
+            <User>
+                <LoginName>Johanna</LoginName>
+                <FirstName>Johanna</FirstName>
+                <LastName>L</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test bank</CompanyName>
+                <EmailAddress>Johanna@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>JohannaL@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/28/2023 14:12:12</DateTime>
+            <DateTimeUTC>1693231932</DateTimeUTC>
+            <Content>
+                Second day BChat CHAT-fs:58F7B7091930001E Front run!!! -Message #1DateTime=08/28/2020
+                14:12:12,DateTimeUTC=08/28/2023 12:12:12. And for this day bellow should be Attachment from
+                AdeleV@shieldfis.onmicrosoft.com with UTS time = 08/28/2023 12:22:22. Third day chat has only Entered
+                action for consultant user bobDoe@shield.com at DateTimeUTC=08/29/2023 15:15:15!!!Insider dealing. After
+                Import we should get 6 BChats: 2 chats per day for 27.08, 28.08, 29.08!!! Please check EUR/USD rate and
+                this asset 0141192 Test data sample - QWERTY reprehenderit in AAPL voluptate minim veniam, quis nostrud
+                exercitatio qui officia deserunt mol aboris nisi cing elit, sed do eiusmo sunt in cul commod unt ut
+                labor eu fugiat nulla pari
+            </Content>
+            <ConversationID>CHAT-fs:58F7B7091930001E</ConversationID>
+        </Message>
+        <Attachment InteractionType="H">
+            <User>
+                <LoginName>Adele</LoginName>
+                <FirstName>Adele</FirstName>
+                <LastName>Vance</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test BANK</CompanyName>
+                <EmailAddress>adele@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>AdeleV@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/28/2023 14:22:22</DateTime>
+            <DateTimeUTC>1693232542</DateTimeUTC>
+            <ConversationID>CHAT-fs:58F7B7091930001E</ConversationID>
+            <FileName>Oh, the Places You&apos;ll Go_Inflation Edition.pdf</FileName>
+            <FileID>58FA66490000992007FC8AB4.pdf</FileID>
+            <FileSize>40543</FileSize>
+        </Attachment>
+        <ParticipantEntered InteractionType="N">
+            <User>
+                <LoginName>bobDoe</LoginName>
+                <FirstName>Bob</FirstName>
+                <LastName>Doe</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test BANK</CompanyName>
+                <EmailAddress>bobDoe@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>bobDoe@shield.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/29/2023 17:15:15</DateTime>
+            <DateTimeUTC>1693329315</DateTimeUTC>
+            <ConversationID>CHAT-fs:58F7B7091930001E</ConversationID>
+        </ParticipantEntered>
+        <EndTime>08/29/2023 17:15:15</EndTime>
+        <EndTimeUTC>1693329315</EndTimeUTC>
+    </Conversation>
+    <Conversation Perspective="" RoomType="C">
+        <RoomID>CHAT-fs:58F7B7091930001C</RoomID>
+        <StartTime>08/27/2023 08:40:00</StartTime>
+        <StartTimeUTC>1693125600</StartTimeUTC>
+        <ParticipantEntered InteractionType="N">
+            <User>
+                <LoginName>Alex</LoginName>
+                <FirstName>Alex</FirstName>
+                <LastName>W</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test bank</CompanyName>
+                <EmailAddress>alex@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>AlexW@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/27/2023 08:40:00</DateTime>
+            <DateTimeUTC>1693125600</DateTimeUTC>
+            <ConversationID>CHAT-fs:58F7B7091930001C</ConversationID>
+        </ParticipantEntered>
+        <Attachment InteractionType="H">
+            <User>
+                <LoginName>Alex</LoginName>
+                <FirstName>Alex</FirstName>
+                <LastName>W</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test BANK</CompanyName>
+                <EmailAddress>alex@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>AlexW@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/27/2023 08:40:00</DateTime>
+            <DateTimeUTC>1693125600</DateTimeUTC>
+            <ConversationID>PCHAT-0x4000001AD6A7F</ConversationID>
+            <FileName>doc_with_password.docx</FileName>
+            <FileID>58FA33120000930607FBCD99.docx</FileID>
+            <FileSize>40543</FileSize>
+        </Attachment>
+        <Attachment InteractionType="H">
+            <User>
+                <LoginName>Alex</LoginName>
+                <FirstName>Alex</FirstName>
+                <LastName>W</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test BANK</CompanyName>
+                <EmailAddress>alex@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>AlexW@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/27/2023 08:40:00</DateTime>
+            <DateTimeUTC>1693125600</DateTimeUTC>
+            <ConversationID>PCHAT-0x4000001AD6A7F</ConversationID>
+            <FileName>7z without зassword-file inside with password.7z</FileName>
+            <FileID>58FA33120000930607FBCD88.7z</FileID>
+            <FileSize>40543</FileSize>
+        </Attachment>
+        <Message InteractionType="N">
+            <User>
+                <LoginName>Alex</LoginName>
+                <FirstName>Alex</FirstName>
+                <LastName>W</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test bank</CompanyName>
+                <EmailAddress>alex@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>AlexW@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/27/2023 08:40:18</DateTime>
+            <DateTimeUTC>1693125618</DateTimeUTC>
+            <Content>Test DATA qwertyQA Err for fcr. Culpa strud exercitation ulla r in reprehenderit in volupt, please
+                reply me ASAP, reprehenderit in voluptate minim veniam, quis nostrud exercitatio qui officia deserunt
+                mol aboris nisi cing elit, sed do eiusmo sunt in cul commod unt ut labor eu fugiat nulla pari
+            </Content>
+            <ConversationID>CHAT-fs:58F7B7091930001C</ConversationID>
+        </Message>
+        <Message InteractionType="N">
+            <User>
+                <LoginName>Adele</LoginName>
+                <FirstName>Adele</FirstName>
+                <LastName>Vance</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test bank</CompanyName>
+                <EmailAddress>alex@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>AdeleV@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/27/2023 08:40:30</DateTime>
+            <DateTimeUTC>1693125630</DateTimeUTC>
+            <Content>
+                culpa strud exercitation ulla r in reprehenderit in volupt reprehenderit qwerty ERR please alert!
+            </Content>
+            <ConversationID>CHAT-fs:58F7B7091930001C</ConversationID>
+        </Message>
+        <Attachment InteractionType="H">
+            <User>
+                <LoginName>Alex</LoginName>
+                <FirstName>Alex</FirstName>
+                <LastName>W</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test BANK</CompanyName>
+                <EmailAddress>alex@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>AlexW@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/27/2023 08:40:30</DateTime>
+            <DateTimeUTC>1693125630</DateTimeUTC>
+            <ConversationID>PCHAT-0x4000001AD6A7F</ConversationID>
+            <FileName>Original_attachments_for+pst_test.zip</FileName>
+            <FileID>58FA33120000930607FBCD55.zip</FileID>
+            <FileSize>40543</FileSize>
+        </Attachment>
+        <ParticipantLeft InteractionType="N">
+            <User>
+                <LoginName>Adele</LoginName>
+                <FirstName>Adele</FirstName>
+                <LastName>Vance</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test bank</CompanyName>
+                <EmailAddress>Adele@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>AdeleV@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/27/2023 08:41:10</DateTime>
+            <DateTimeUTC>1693125670</DateTimeUTC>
+            <ConversationID>CHAT-fs:58F7B7091930001C</ConversationID>
+        </ParticipantLeft>
+        <ParticipantEntered InteractionType="N">
+            <User>
+                <LoginName>Johanna</LoginName>
+                <FirstName>Johanna</FirstName>
+                <LastName>L</LastName>
+                <UUID>2516</UUID>
+                <FirmNumber>2126</FirmNumber>
+                <AccountNumber>302445809</AccountNumber>
+                <CompanyName>Test BANK</CompanyName>
+                <EmailAddress>JohannaL@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>JohannaL@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/27/2023 08:41:50</DateTime>
+            <DateTimeUTC>1693125710</DateTimeUTC>
+        </ParticipantEntered>
+        <Message InteractionType="N">
+            <User>
+                <LoginName>Johanna</LoginName>
+                <FirstName>Johanna</FirstName>
+                <LastName>L</LastName>
+                <UUID>2516</UUID>
+                <FirmNumber>2126</FirmNumber>
+                <AccountNumber>302445809</AccountNumber>
+                <CompanyName>Test BANK</CompanyName>
+                <EmailAddress>Johanna@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>JohannaL@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/27/2023 08:42:25</DateTime>
+            <DateTimeUTC>1693125745</DateTimeUTC>
+            <Content>
+                Test data sample - please reply! Hi - QWERTY reprehenderit in voluptate minim veniam, quis nostrud
+                exercitatio qui officia deserunt mol aboris nisi cing elit, sed do eiusmo sunt in cul commod unt ut
+                labor eu fugiat nulla pari. This test message, it will help us to check import flow!!!
+            </Content>
+            <ConversationID>CHAT-fs:58F7B7091930001C</ConversationID>
+        </Message>
+        <ParticipantEntered InteractionType="N">
+            <User>
+                <LoginName>Adele</LoginName>
+                <FirstName>Adele</FirstName>
+                <LastName>Vance</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test bank</CompanyName>
+                <EmailAddress>Adele@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>AdeleV@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/28/2023 09:07:07</DateTime>
+            <DateTimeUTC>1693213627</DateTimeUTC>
+            <ConversationID>CHAT-fs:58F7B7091930001C</ConversationID>
+        </ParticipantEntered>
+        <Message InteractionType="N">
+            <User>
+                <LoginName>Adele</LoginName>
+                <FirstName>Adele</FirstName>
+                <LastName>Vance</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test bank</CompanyName>
+                <EmailAddress>alex@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>AdeleV@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/28/2023 09:10:07</DateTime>
+            <DateTimeUTC>1693213807</DateTimeUTC>
+            <Content>
+                This is second day BChat DateTime=08/28/2023 09:10:07, DateTimeUTC=08/28/2023 07:10:07. It has Entered
+                and message actions. THis chat has third day User left action for AdeleV@shieldfis.onmicrosoft.com ->
+                separate BChat for date UTC =08/29/2023 12:10:10 should exist!!! Front run. culpa strud exercitation
+                ulla r in reprehenderit in volupt reprehenderit qwerty ERR please alert!
+            </Content>
+            <ConversationID>CHAT-fs:58F7B7091930001C</ConversationID>
+        </Message>
+        <ParticipantLeft InteractionType="N">
+            <User>
+                <LoginName>Adele</LoginName>
+                <FirstName>Adele</FirstName>
+                <LastName>Vance</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test bank</CompanyName>
+                <EmailAddress>Adele@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>AdeleV@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/29/2023 12:10:10</DateTime>
+            <DateTimeUTC>1693311010</DateTimeUTC>
+            <ConversationID>CHAT-fs:58F7B7091930001C</ConversationID>
+        </ParticipantLeft>
+        <EndTime>08/29/2023 12:10:10</EndTime>
+        <EndTimeUTC>1693311010</EndTimeUTC>
+    </Conversation>
+    <Conversation Perspective="" RoomType="C">
+        <RoomID>CHAT-fs:58F7B7091930001T</RoomID>
+        <StartTime>08/27/2023 09:42:25</StartTime>
+        <StartTimeUTC>1693129345</StartTimeUTC>
+        <ParticipantEntered InteractionType="N">
+            <User>
+                <LoginName>Richard</LoginName>
+                <FirstName>Richard</FirstName>
+                <LastName>W</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test bank</CompanyName>
+                <EmailAddress>Richard@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>RichardW@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/27/2023 09:42:25</DateTime>
+            <DateTimeUTC>1693129345</DateTimeUTC>
+            <ConversationID>CHAT-fs:58F7B7091930001T</ConversationID>
+        </ParticipantEntered>
+        <Message InteractionType="N">
+            <User>
+                <LoginName>Richard</LoginName>
+                <FirstName>Richard</FirstName>
+                <LastName>W</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test bank</CompanyName>
+                <EmailAddress>Richard@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>RichardW@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/27/2023 09:43:25</DateTime>
+            <DateTimeUTC>1598521405</DateTimeUTC>
+            <Content>
+                Test DATA qwertyQA Err for fcr. Culpa strud exercitation ulla r in reprehenderit in volupt, please reply
+                me ASAP, reprehenderit in voluptate minim veniam, quis nostrud exercitatio qui officia deserunt mol
+                aboris nisi cing elit, sed do eiusmo sunt in cul commod unt ut labor eu fugiat nulla pari
+            </Content>
+            <ConversationID>CHAT-fs:58F7B7091930001T</ConversationID>
+        </Message>
+        <Message InteractionType="N">
+            <User>
+                <LoginName>Anna</LoginName>
+                <FirstName>Anna</FirstName>
+                <LastName>Vance</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test bank</CompanyName>
+                <EmailAddress>Anna@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>AnnaV@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/27/2023 09:44:01</DateTime>
+            <DateTimeUTC>1598521441</DateTimeUTC>
+            <Content>
+                culpa strud exercitation ulla r in reprehenderit in volupt reprehenderit qwerty ERR please alert!
+            </Content>
+            <ConversationID>CHAT-fs:58F7B7091930001T</ConversationID>
+        </Message>
+        <ParticipantLeft InteractionType="N">
+            <User>
+                <LoginName>Anna</LoginName>
+                <FirstName>Anna</FirstName>
+                <LastName>Vance</LastName>
+                <UUID>2515</UUID>
+                <FirmNumber>2121</FirmNumber>
+                <AccountNumber>30244587</AccountNumber>
+                <CompanyName>Test bank</CompanyName>
+                <EmailAddress>Anna@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>AnnaV@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/27/2023 09:44:29</DateTime>
+            <DateTimeUTC>1598521469</DateTimeUTC>
+            <ConversationID>CHAT-fs:58F7B7091930001T</ConversationID>
+        </ParticipantLeft>
+        <ParticipantEntered InteractionType="N">
+            <User>
+                <LoginName>Mary</LoginName>
+                <FirstName>Marya</FirstName>
+                <LastName>Lain</LastName>
+                <UUID>2516</UUID>
+                <FirmNumber>2126</FirmNumber>
+                <AccountNumber>302445809</AccountNumber>
+                <CompanyName>Test BANK</CompanyName>
+                <EmailAddress>Mary@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>MaryL@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/27/2023 09:45:10</DateTime>
+            <DateTimeUTC>1598521510</DateTimeUTC>
+        </ParticipantEntered>
+        <Message InteractionType="N">
+            <User>
+                <LoginName>Mary</LoginName>
+                <FirstName>Mary</FirstName>
+                <LastName>L</LastName>
+                <UUID>2516</UUID>
+                <FirmNumber>2126</FirmNumber>
+                <AccountNumber>302445809</AccountNumber>
+                <CompanyName>Test BANK</CompanyName>
+                <EmailAddress>Mary@Bloomberg.net</EmailAddress>
+                <CorporateEmailAddress>MaryL@shieldfis.onmicrosoft.com</CorporateEmailAddress>
+            </User>
+            <DateTime>08/27/2023 09:46:10</DateTime>
+            <DateTimeUTC>1598521570</DateTimeUTC>
+            <Content>
+                Test data sample - front run! Hi - QWERTY reprehenderit in voluptate minim veniam, quis nostrud
+                exercitatio qui officia deserunt mol aboris nisi cing elit, sed do eiusmo sunt in cul commod unt ut
+                labor eu fugiat nulla pari. This test message, it will help us to check import flow!!!
+            </Content>
+            <ConversationID>CHAT-fs:58F7B7091930001T</ConversationID>
+        </Message>
+        <EndTime>08/27/2023 09:46:10</EndTime>
+        <EndTimeUTC>1598521570</EndTimeUTC>
+    </Conversation>
+</FileDump>
